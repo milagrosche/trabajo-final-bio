@@ -1,0 +1,53 @@
+# !!! Do not change keywords !!!
+clases:
+  - c1
+  - c2
+  - c3
+
+dia:
+  - d1
+  - d2
+  - d3
+  - d4
+  - d5
+  - d6
+
+horas:
+  - h1
+  - h2
+  - h3
+  - h4
+  - h5
+  - h6
+
+# <course, room_type, lecturer, units>
+map_curso: 
+  - ["cloud",  "A", "l5", 2]
+  - ["icc",    "TP","l5", 2]
+  - ["curso2",    "TP","l5", 1]
+  - ["ia",     "A", "l2", 2]
+  - ["mat",   "A", "l2", 1]
+  - ["mat2",    "TP","l5", 1]
+  - ["bigData","TP","l5", 1]
+  - ["os", "TP","l5", 1]
+  - ["arqui",     "A", "l1", 1]
+  - ["ga",     "A", "l3", 1]
+  - ["verif",  "A", "l3", 1]
+  - ["mc1",    "A", "l0", 2]
+  - ["mc",     "A", "l3", 2]
+  - ["is1",    "A", "l4", 1]
+  - ["tp_is", "A", "l3", 2]
+  - ["tp_ia",  "TP","l5", 2]
+  - ["graf1","A", "l3", 1]
+  - ["graf2","A", "l3", 1]
+
+room:
+  tipo:
+    - A
+    - TP
+  num:
+    - 50
+    - 50
+  
+  
+  
